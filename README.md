@@ -8,7 +8,7 @@
 - 📫 you can reach me on my linkedin @https://www.linkedin.com/in/manishkalyan/
 - ⚡ Funfact: love to watch highly detailed anime
 
-![Snake animation](https://github.com/MANISH-LAB/MANISH-LAB/blob/output/github-contribution-grid-snake.svg)
+
 
 
 <!---
